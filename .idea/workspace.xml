@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e74990f4-8834-4056-b8b9-f56f868ba4d4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2zF020zld4df0HOVgVBd3KNY8fk" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/ru/otus/algos_01_recursion_cycles" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\olech\IdeaProjects\otus-algos\src\main\java\ru\otus\algos_01_recursion_cycles" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.otus.algos_01_recursion_cycles" />
+      <recent name="ru.otus" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Spell_25">
+    <configuration name="Spell_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_01_recursion_cycles.Spell_21" />
+      <module name="otus-algos.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.otus.algos_01_recursion_cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spell_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_01_recursion_cycles.Spell_22" />
+      <module name="otus-algos.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.otus.algos_01_recursion_cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spell_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_01_recursion_cycles.Spell_23" />
+      <module name="otus-algos.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.otus.algos_01_recursion_cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spell_24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_01_recursion_cycles.Spell_24" />
+      <module name="otus-algos.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.otus.algos_01_recursion_cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spell_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_01_recursion_cycles.Spell_25" />
+      <module name="otus-algos.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.otus.algos_01_recursion_cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Spell_25" />
+        <item itemvalue="Application.Spell_24" />
+        <item itemvalue="Application.Spell_23" />
+        <item itemvalue="Application.Spell_22" />
+        <item itemvalue="Application.Spell_21" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e74990f4-8834-4056-b8b9-f56f868ba4d4" name="Default Changelist" comment="" />
+      <created>1751311304883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751311304883</updated>
+      <workItem from="1751311306269" duration="2469000" />
+      <workItem from="1751386181234" duration="2456000" />
+      <workItem from="1751473148789" duration="21418000" />
+      <workItem from="1751990213463" duration="23000" />
+      <workItem from="1751990249993" duration="4107000" />
+      <workItem from="1752056599944" duration="4113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
