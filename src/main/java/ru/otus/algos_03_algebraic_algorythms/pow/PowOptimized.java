@@ -19,7 +19,7 @@ public class PowOptimized {
 
         int checkedNumber = isNegative ? pow * -1 : pow;
 
-        if (checkedNumber % 2 == 1) {
+        if (checkedNumber % 2 == 1) { // число нечётное
             halfPower = optimized(number,checkedNumber/2);
             result =  number * halfPower * halfPower;
         }
