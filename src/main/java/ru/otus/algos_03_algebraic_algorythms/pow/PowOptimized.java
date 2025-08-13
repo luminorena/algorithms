@@ -28,6 +28,5 @@ public class PowOptimized {
             result = halfPower * halfPower;
         }
         return isNegative ? 1.0 / result : result;
-
     }
 }
