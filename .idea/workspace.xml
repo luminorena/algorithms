@@ -4,20 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e74990f4-8834-4056-b8b9-f56f868ba4d4" name="Default Changelist" comment="added base data structures task">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_05_bitwise/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_05_bitwise/chess/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_05_bitwise/chess/bitboard/Bitboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_05_bitwise/chess/bitboard/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_05_bitwise/chess/bitboard/King.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_05_bitwise/chess/bitboard/Rook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_05_bitwise/chess/factory/ChessFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_05_bitwise/chess/factory/HorseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_05_bitwise/chess/factory/KingFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_05_bitwise/chess/factory/RookFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_05_bitwise/onescount/CountOnesCaching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_05_bitwise/onescount/CountOnesKernighan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_05_bitwise/onescount/CountOnesSimple.java" afterDir="false" />
+    <list default="true" id="e74990f4-8834-4056-b8b9-f56f868ba4d4" name="Default Changelist" comment="added bitwise tasks">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_03_algebraic_algorythms/GCD/Evclid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_06_simple_sorts/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_06_simple_sorts/bubblesort/BubbleSortOptimized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_06_simple_sorts/bubblesort/BubbleSortSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_06_simple_sorts/insertionsort/InsertionSortBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_06_simple_sorts/insertionsort/InsertionSortMovesReduced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_06_simple_sorts/insertionsort/InsertionSortSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_06_simple_sorts/jmh/BenchmarkRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_06_simple_sorts/jmh/BubbleSortOptimizedBenchmark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_06_simple_sorts/jmh/BubbleSortSimpleBenchmark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_06_simple_sorts/jmh/InsertionSortBinarySearchBenchmark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_06_simple_sorts/jmh/InsertionSortMovesReducedBenchmark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_06_simple_sorts/jmh/InsertionSortSimpleBenchmark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_06_simple_sorts/jmh/ShellSortOptimizedFirstVariantBenchmark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_06_simple_sorts/jmh/ShellSortOptimizedSecondVariantBenchmark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_06_simple_sorts/jmh/ShellSortSimpleBenchmark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_06_simple_sorts/performance.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_06_simple_sorts/shellsort/ShellSortOptimizedFirstVariant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_06_simple_sorts/shellsort/ShellSortOptimizedSecondVariant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_06_simple_sorts/shellsort/ShellSortSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_06_simple_sorts/utils/Randomizer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
@@ -27,7 +35,7 @@
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/otus/algos_03_algebraic_algorythms/pow/PowOptimized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_03_algebraic_algorythms/pow/PowOptimized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/otus/algos_05_bitwise/onescount/CountOnesSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_05_bitwise/onescount/CountOnesSimple.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,31 +89,32 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/algos_02_tests" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/ru/otus/algos_06_simple_sorts" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\olech\IdeaProjects\otus-algos\src\main\java\ru\otus\algos_06_simple_sorts" />
       <recent name="C:\Users\olech\IdeaProjects\otus-algos\src\main\resources\algos_02_tests" />
       <recent name="C:\Users\olech\IdeaProjects\otus-algos\src\main\java\ru\otus\algos_01_recursion_cycles" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.otus.algos_06_simple_sorts.jmh" />
+      <recent name="ru.otus.algos_06_simple_sorts.shellsort" />
+      <recent name="ru.otus.algos_06_simple_sorts.insertionsort" />
       <recent name="ru.otus.algos_04_base_datastructure.jmh" />
       <recent name="" />
-      <recent name="ru.otus.algos_04_base_datastructure.arrays" />
-      <recent name="ru.otus.algos_01_recursion_cycles" />
-      <recent name="ru.otus" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountOnesCaching">
-    <configuration name="CountOnesCaching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_05_bitwise.onescount.CountOnesCaching" />
+  <component name="RunManager" selected="Application.BenchmarkRunner">
+    <configuration name="BenchmarkRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_06_simple_sorts.jmh.BenchmarkRunner" />
       <module name="otus-algos.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.otus.algos_05_bitwise.onescount.*" />
+          <option name="PATTERN" value="ru.otus.algos_06_simple_sorts.jmh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountOnesKernighan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_05_bitwise.onescount.CountOnesKernighan" />
+    <configuration name="InsertionSortBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_06_simple_sorts.insertionsort.InsertionSortBinarySearch" />
       <module name="otus-algos.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.otus.algos_05_bitwise.onescount.*" />
+          <option name="PATTERN" value="ru.otus.algos_06_simple_sorts.insertionsort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountOnesSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_05_bitwise.onescount.CountOnesSimple" />
+    <configuration name="InsertionSortMovesReduced" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_06_simple_sorts.insertionsort.InsertionSortMovesReduced" />
       <module name="otus-algos.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.otus.algos_05_bitwise.onescount.*" />
+          <option name="PATTERN" value="ru.otus.algos_06_simple_sorts.insertionsort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_05_bitwise.chess.Main" />
+    <configuration name="ShellSortOptimizedSecondVariant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_06_simple_sorts.shellsort.ShellSortOptimizedSecondVariant" />
       <module name="otus-algos.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.otus.algos_05_bitwise.chess.bitboard.*" />
+          <option name="PATTERN" value="ru.otus.algos_06_simple_sorts.shellsort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowOptimized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_03_algebraic_algorythms.pow.PowOptimized" />
+    <configuration name="ShellSortSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_06_simple_sorts.shellsort.ShellSortSimple" />
       <module name="otus-algos.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.otus.algos_03_algebraic_algorythms.pow.*" />
+          <option name="PATTERN" value="ru.otus.algos_06_simple_sorts.shellsort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,26 +174,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountOnesCaching" />
-        <item itemvalue="Application.CountOnesKernighan" />
-        <item itemvalue="Application.CountOnesSimple" />
-        <item itemvalue="Application.PowOptimized" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BenchmarkRunner" />
+        <item itemvalue="Application.ShellSortOptimizedSecondVariant" />
+        <item itemvalue="Application.ShellSortSimple" />
+        <item itemvalue="Application.InsertionSortBinarySearch" />
+        <item itemvalue="Application.InsertionSortMovesReduced" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +222,12 @@
       <workItem from="1754593275625" duration="2331000" />
       <workItem from="1754595655311" duration="4913000" />
       <workItem from="1754744724787" duration="5772000" />
-      <workItem from="1755032721669" duration="14511000" />
+      <workItem from="1755032721669" duration="18633000" />
+      <workItem from="1755686879381" duration="3614000" />
+      <workItem from="1755792652744" duration="3729000" />
+      <workItem from="1755892065764" duration="2763000" />
+      <workItem from="1756052462521" duration="2843000" />
+      <workItem from="1756056011102" duration="18098000" />
     </task>
     <task id="LOCAL-00001" summary="added readme to 1st task">
       <created>1752080678538</created>
@@ -238,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1754231389925</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added bitwise tasks">
+      <created>1755112353003</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755112353003</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +280,7 @@
     <MESSAGE value="added lucky tickets task" />
     <MESSAGE value="added algebra algos task" />
     <MESSAGE value="added base data structures task" />
-    <option name="LAST_COMMIT_MESSAGE" value="added base data structures task" />
+    <MESSAGE value="added bitwise tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="added bitwise tasks" />
   </component>
 </project>
