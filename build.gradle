@@ -23,6 +23,7 @@ dependencies {
     implementation   'org.openjdk.jmh:jmh-core:1.37'
     annotationProcessor 'org.openjdk.jmh:jmh-generator-annprocess:1.37'
     implementation  'org.assertj:assertj-core:3.27.3'
+    implementation 'org.projectlombok:lombok:1.12.4'
 }
 
 test {
