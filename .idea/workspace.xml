@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e74990f4-8834-4056-b8b9-f56f868ba4d4" name="Default Changelist" comment="Added BTS and AVL">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_11_balanced_trees/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_11_balanced_trees/jmh/BenchmarkRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_11_balanced_trees/jmh/RandomTreeBenchMark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_11_balanced_trees/jmh/SplayTreeBenchmark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_11_balanced_trees/performance.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_11_balanced_trees/random_tree/RandomSplayTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_11_balanced_trees/splay_tree/SplayTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_11_balanced_trees/utlis/Sequence.java" afterDir="false" />
+    <list default="true" id="e74990f4-8834-4056-b8b9-f56f868ba4d4" name="Default Changelist" comment="Added splay and random tree">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_13_prefix_tree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_13_prefix_tree/associative_array/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_13_prefix_tree/associative_array/PrefixTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_13_prefix_tree/associative_array/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
@@ -22,9 +19,6 @@
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/otus/algos_10_binary_search_trees/jmh/BenchmarkRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_10_binary_search_trees/jmh/BenchmarkRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/otus/algos_10_binary_search_trees/jmh/ConsequentTreeBenchmark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_10_binary_search_trees/jmh/ConsequentTreeBenchmark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/otus/algos_10_binary_search_trees/jmh/RandomTreeBenchmark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_10_binary_search_trees/jmh/RandomTreeBenchmark.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +72,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/ru/otus/algos_11_balanced_trees" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -99,7 +93,7 @@
       <recent name="ru.otus.algos_09_milliard_digits_sort.sorts" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BenchmarkRunner (1)">
+  <component name="RunManager" selected="Application.Runner">
     <configuration name="BenchmarkRunner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.otus.algos_11_balanced_trees.jmh.BenchmarkRunner" />
       <module name="otus-algos.main" />
@@ -113,12 +107,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BenchmarkRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_10_binary_search_trees.jmh.BenchmarkRunner" />
+    <configuration name="HashTableChaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_12_hash_functions.HashTableChaining" />
       <module name="otus-algos.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.otus.algos_10_binary_search_trees.jmh.*" />
+          <option name="PATTERN" value="ru.otus.algos_12_hash_functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenAddrHash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_12_hash_functions.OpenAddrHash" />
+      <module name="otus-algos.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.otus.algos_12_hash_functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_10_binary_search_trees.utlis.Sequence" />
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_13_prefix_tree.associative_array.Runner" />
       <module name="otus-algos.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.otus.algos_10_binary_search_trees.utlis.*" />
+          <option name="PATTERN" value="ru.otus.algos_13_prefix_tree.associative_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,39 +159,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplayTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_11_balanced_trees.splay_tree.SplayTree" />
-      <module name="otus-algos.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.otus.algos_11_balanced_trees.splay_tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.OpenAddrHash" />
+        <item itemvalue="Application.HashTableChaining" />
         <item itemvalue="Application.BenchmarkRunner (1)" />
         <item itemvalue="Application.RandomSplayTree" />
-        <item itemvalue="Application.SplayTree" />
-        <item itemvalue="Application.Sequence" />
-        <item itemvalue="Application.BenchmarkRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +227,14 @@
       <workItem from="1760210514416" duration="6147000" />
       <workItem from="1760378966806" duration="8596000" />
       <workItem from="1760644653238" duration="3349000" />
-      <workItem from="1760982339022" duration="5393000" />
+      <workItem from="1760982339022" duration="5704000" />
+      <workItem from="1761067740115" duration="1222000" />
+      <workItem from="1762619110382" duration="310000" />
+      <workItem from="1765967892270" duration="61000" />
+      <workItem from="1766516995252" duration="2365000" />
+      <workItem from="1766608714255" duration="13000" />
+      <workItem from="1766608743907" duration="12000" />
+      <workItem from="1768414145619" duration="2944000" />
     </task>
     <task id="LOCAL-00001" summary="added readme to 1st task">
       <created>1752080678538</created>
@@ -307,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1760459707359</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added splay and random tree">
+      <created>1760987976211</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1760987976211</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,6 +343,7 @@
     <MESSAGE value="Added quicksort and external sort task" />
     <MESSAGE value="Added CountingSort, RadixSort, BucketSort." />
     <MESSAGE value="Added BTS and AVL" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added BTS and AVL" />
+    <MESSAGE value="Added splay and random tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added splay and random tree" />
   </component>
 </project>
