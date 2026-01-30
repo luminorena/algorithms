@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e74990f4-8834-4056-b8b9-f56f868ba4d4" name="Default Changelist" comment="Added prefix tree" />
+    <list default="true" id="e74990f4-8834-4056-b8b9-f56f868ba4d4" name="Default Changelist" comment="Added prefix tree">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_14_grafs_search/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_14_grafs_search/demukron/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_14_grafs_search/demukron/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,18 +70,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/ru/otus/algos_13_prefix_tree/leetcode" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\olech\IdeaProjects\otus-algos\src\main\java\ru\otus\algos_13_prefix_tree\leetcode" />
       <recent name="C:\Users\olech\IdeaProjects\otus-algos\src\main\java\ru\otus\algos_11_balanced_trees" />
       <recent name="C:\Users\olech\IdeaProjects\otus-algos\src\main\java\ru\otus\algos_10_binary_search_trees" />
       <recent name="C:\Users\olech\IdeaProjects\otus-algos\src\main\java\ru\otus\algos_09_milliard_digits_sort" />
       <recent name="C:\Users\olech\IdeaProjects\otus-algos\src\main\java\ru\otus\algos_09_milliard_digits_sort\jmh" />
-      <recent name="C:\Users\olech\IdeaProjects\otus-algos\src\main\java\ru\otus\algos_08_quick_and_external_sort" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ru.otus.algos_11_balanced_trees.utlis" />
@@ -118,19 +131,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomSplayTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_11_balanced_trees.random_tree.RandomSplayTree" />
-      <module name="otus-algos.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.otus.algos_11_balanced_trees.random_tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.otus.algos_13_prefix_tree.associative_array.Runner" />
       <module name="otus-algos.main" />
@@ -144,13 +144,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_14_grafs_search.demukron.Runner" />
+      <module name="otus-algos.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.otus.algos_14_grafs_search.demukron.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -158,10 +160,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.Runner" />
         <item itemvalue="Application.OpenAddrHash" />
         <item itemvalue="Application.HashTableChaining" />
         <item itemvalue="Application.BenchmarkRunner (1)" />
-        <item itemvalue="Application.RandomSplayTree" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +221,10 @@
       <workItem from="1766516995252" duration="2365000" />
       <workItem from="1766608714255" duration="13000" />
       <workItem from="1766608743907" duration="12000" />
-      <workItem from="1768414145619" duration="3253000" />
+      <workItem from="1768414145619" duration="4615000" />
+      <workItem from="1769446916798" duration="31000" />
+      <workItem from="1769446973805" duration="8000" />
+      <workItem from="1769447008101" duration="2333000" />
     </task>
     <task id="LOCAL-00001" summary="added readme to 1st task">
       <created>1752080678538</created>
@@ -305,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1768417428004</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added prefix tree">
+      <created>1768417559350</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1768417559350</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
