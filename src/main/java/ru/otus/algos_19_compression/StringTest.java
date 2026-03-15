@@ -2,7 +2,7 @@ package ru.otus.algos_19_compression;
 
 public class StringTest {
     public static void main(String[] args) {
-        String[] tests = {"AAAAAABBBCC", "ABCDE", "AAABCDEFFF"};
+        String[] tests = {"A2B"};
 
         for (String test : tests) {
             String compressString = CompressString.compress(test);

@@ -5,84 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e74990f4-8834-4056-b8b9-f56f868ba4d4" name="Default Changelist" comment="Added RLE">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_20_dynamic_programming/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_20_dynamic_programming/big_island/BigIslandCalculateResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_20_dynamic_programming/big_island/BigIslandTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_20_dynamic_programming/five_eight/FiveEightCalculateResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_20_dynamic_programming/five_eight/FiveEightTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_20_dynamic_programming/peas/PeasCalculateResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_20_dynamic_programming/peas/PeasTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_20_dynamic_programming/utils/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/big_island_tests/test.0.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/big_island_tests/test.0.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/big_island_tests/test.1.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/big_island_tests/test.1.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/big_island_tests/test.2.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/big_island_tests/test.2.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/big_island_tests/test.3.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/big_island_tests/test.3.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/big_island_tests/test.4.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/big_island_tests/test.4.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/big_island_tests/test.5.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/big_island_tests/test.5.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/big_island_tests/test.6.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/big_island_tests/test.6.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/big_island_tests/test.7.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/big_island_tests/test.7.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/big_island_tests/test.8.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/big_island_tests/test.8.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/big_island_tests/test.9.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/big_island_tests/test.9.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/five_eight_tests/test.0.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/five_eight_tests/test.0.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/five_eight_tests/test.1.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/five_eight_tests/test.1.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/five_eight_tests/test.2.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/five_eight_tests/test.2.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/five_eight_tests/test.3.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/five_eight_tests/test.3.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/five_eight_tests/test.4.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/five_eight_tests/test.4.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/five_eight_tests/test.5.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/five_eight_tests/test.5.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/five_eight_tests/test.6.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/five_eight_tests/test.6.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/five_eight_tests/test.7.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/five_eight_tests/test.7.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/five_eight_tests/test.8.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/five_eight_tests/test.8.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/five_eight_tests/test.9.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/five_eight_tests/test.9.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/peas_tests/test.0.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/peas_tests/test.0.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/peas_tests/test.1.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/peas_tests/test.1.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/peas_tests/test.2.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/peas_tests/test.2.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/peas_tests/test.3.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/peas_tests/test.3.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/peas_tests/test.4.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/peas_tests/test.4.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/peas_tests/test.5.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/peas_tests/test.5.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/peas_tests/test.6.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/peas_tests/test.6.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/peas_tests/test.7.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/peas_tests/test.7.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/peas_tests/test.8.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/peas_tests/test.8.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/peas_tests/test.9.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/peas_tests/test.9.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/otus/algos_19_compression/CompressString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_19_compression/CompressString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/otus/algos_19_compression/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/otus/algos_19_compression/StringTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +83,7 @@
       <recent name="ru.otus.algos_10_binary_search_trees.utlis" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BigIslandTest">
+  <component name="RunManager" selected="Application.StringTest">
     <configuration name="BigIslandCalculateResult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.otus.algos_20_dynamic_programming.big_island.BigIslandCalculateResult" />
       <module name="otus-algos.main" />
@@ -184,38 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_19_compression.FileTest" />
-      <module name="otus-algos.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.otus.algos_19_compression.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FiveEightTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.otus.algos_20_dynamic_programming.five_eight.FiveEightTest" />
       <module name="otus-algos.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.otus.algos_20_dynamic_programming.five_eight.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_15_min_skeleton.kruskal.Main" />
-      <module name="otus-algos.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.otus.algos_15_min_skeleton.kruskal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,6 +149,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.otus.algos_19_compression.StringTest" />
+      <module name="otus-algos.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.otus.algos_19_compression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -262,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringTest" />
         <item itemvalue="Application.BigIslandTest" />
         <item itemvalue="Application.BigIslandCalculateResult" />
         <item itemvalue="Application.FiveEightTest" />
         <item itemvalue="Application.PeasTest" />
-        <item itemvalue="Application.FileTest" />
       </list>
     </recent_temporary>
   </component>
@@ -340,6 +253,8 @@
       <workItem from="1772040530433" duration="4676000" />
       <workItem from="1772477159318" duration="5609000" />
       <workItem from="1773080753326" duration="7569000" />
+      <workItem from="1773139182827" duration="76000" />
+      <workItem from="1773575843269" duration="1329000" />
     </task>
     <task id="LOCAL-00001" summary="added readme to 1st task">
       <created>1752080678538</created>

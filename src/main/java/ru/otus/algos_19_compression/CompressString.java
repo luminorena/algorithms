@@ -3,6 +3,7 @@ package ru.otus.algos_19_compression;
 public class CompressString {
     public static String compress(String str) {
         if (str == null || str.isEmpty()) return str;
+
         StringBuilder sb = new StringBuilder();
         char currentChar = str.charAt(0);
         int count = 1;
@@ -31,8 +32,13 @@ public class CompressString {
 
         while (i < compressed.length()) {
             char curr = compressed.charAt(i);
-            i++;
+            if (i + 1 < compressed.length() && Character.isDigit(compressed.charAt(i + 1))) {
+                sb.append(curr);
+                i++;
+                continue;
+            }
 
+            i++;
             int count = 1;
             if (i < compressed.length()) {
                 char next = compressed.charAt(i);
@@ -41,7 +47,6 @@ public class CompressString {
                     i++;
                 }
             }
-
             sb.append(String.valueOf(curr).repeat(count));
         }
         return sb.toString();
