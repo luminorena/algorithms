@@ -5,8 +5,8 @@ public class StringTest {
         String[] tests = {"A2B"};
 
         for (String test : tests) {
-            String compressString = CompressString.compress(test);
-            String decompressString = CompressString.decompress(compressString);
+            String compressString = CompressStringImproved.compress(test);
+            String decompressString = CompressStringImproved.decompress(compressString);
 
             System.out.println("Original string:  '" + test + "' (" + test.length() + ")");
             System.out.println("Compressed string: '" + compressString + "' (" + compressString.length() + ")");
